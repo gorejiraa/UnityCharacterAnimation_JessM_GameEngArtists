@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98b7a5d6235924649a2ed00eec9ba450
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Demo (optional)/Materials/CoinMaterials/CoinAlphaClip.mat
+  uploadId: 729219

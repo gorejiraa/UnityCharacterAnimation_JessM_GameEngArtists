@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d842b69ce753c504eb92c4764cbe7fac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Demo (optional)/Materials/DropMaterials/DropModulateMaterial2.mat
+  uploadId: 729219
