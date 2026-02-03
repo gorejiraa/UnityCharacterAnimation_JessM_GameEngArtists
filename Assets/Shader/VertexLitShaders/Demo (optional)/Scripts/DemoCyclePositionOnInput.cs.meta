@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ab97f8a8e5bc0c4ebaa7476bde3a1bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Demo (optional)/Scripts/DemoCyclePositionOnInput.cs
+  uploadId: 729219

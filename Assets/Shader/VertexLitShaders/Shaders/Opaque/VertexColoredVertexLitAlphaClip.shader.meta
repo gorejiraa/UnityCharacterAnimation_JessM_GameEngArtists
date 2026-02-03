@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 46ca0287406724146a3c6a2c5d549fe1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Shaders/Opaque/VertexColoredVertexLitAlphaClip.shader
+  uploadId: 729219

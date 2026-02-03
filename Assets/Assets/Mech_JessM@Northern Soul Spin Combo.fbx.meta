@@ -3,7 +3,17 @@ guid: ce257cfae9c434b40b227d4f368917ad
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eva_Mech_Jess2_palette1
+    second: {fileID: 2100000, guid: 604232a36838ce84e94b7b9a426e9f03, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eva_Mech_Jess2
+    second: {fileID: 2800000, guid: 61aea4f0bcc34c04fa86ebad5842853e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

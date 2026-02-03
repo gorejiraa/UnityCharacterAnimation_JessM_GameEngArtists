@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2ef3a2197093e24aa4b87ec9383151e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Demo (optional)/Shaders/DepthShader.shader
+  uploadId: 729219

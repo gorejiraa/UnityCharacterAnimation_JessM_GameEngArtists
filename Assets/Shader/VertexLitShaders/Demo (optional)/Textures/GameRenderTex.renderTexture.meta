@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 215b47db1e7ead44a81c96d73a87935c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Demo (optional)/Textures/GameRenderTex.renderTexture
+  uploadId: 729219

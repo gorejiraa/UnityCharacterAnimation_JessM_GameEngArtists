@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 09c33d1d854a44ecbf4665e75f9962b4
+timeCreated: 1731874711
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264639
+  packageName: Vertex-colored & Vertex-lit Shaders (N64/GC/DS/PS1/PS2 style)
+  packageVersion: 2.4.1
+  assetPath: Assets/OddlyShapedDog/VertexLitShaders/Shaders/Legacy (do not use)/VertexColoredSphereMapped.shader
+  uploadId: 729219
